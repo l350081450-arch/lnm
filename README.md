@@ -1,0 +1,3 @@
+﻿# .git
+
+My project workspace.
